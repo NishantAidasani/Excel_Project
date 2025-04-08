@@ -19,9 +19,9 @@ Questions to Analyze:
 
 The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
-- Job titles
-- Salaries
-- Locations
+- Job title
+- Salary
+- Country
 - Skills
 
 # The Analysis

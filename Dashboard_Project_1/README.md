@@ -12,10 +12,11 @@ The Excel Salary Dashboard was designed to help job seekers explore and compare 
 
 The dataset used for this project contains real-world data science job information from 2023. It includes detailed information on:
 
-- Job titles
-- Salaries
-- Locations
-- Skills
+- Job title
+- Job type
+- Salary
+- Country
+- Platform
 
 # Dashboard
 

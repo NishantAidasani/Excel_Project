@@ -30,7 +30,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### Skills: Power Pivot, DAX
 
-![Project_Analysis_Chart1.png.png](/Assets/Project_Analysis_Chart1.png)
+![Project_Analysis_Chart1.png](/Assets/Project_Analysis_Chart1.png)
 
 This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
 
